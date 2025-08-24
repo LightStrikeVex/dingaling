@@ -136,7 +136,7 @@ local animations = {
 	{name = "Helicopter 3", id = 91257498644328, speed = 1, timepos = 0},
 	{name = "scp 096 sit", id = 103920001363489, speed = 1, timepos = 0},
 	{name = "scp 096 panic 1", id = 132065685005919, speed = 1, timepos = 0},
-	{name = "scp 096 panic 2", id = 132065685005919, speed = 1, timepos = 0},
+	{name = "scp 173", id = 95636090469051, speed = 1, timepos = 0},
 	{name = "Macarena", id = 95057986092544, speed = 1, timepos = 0},
 	{name = "dingaling", id = 126534971736559, speed = 1, timepos = 0},
     {name = "hide", id = 90569241075391, speed = 1, timepos = 0},
