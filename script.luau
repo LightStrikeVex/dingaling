@@ -1,5 +1,3 @@
--- idk who tf was the original creator but i added some ids xd
-
 ----------------------------------------------------------------------------------------------------------------------------
 
 if not game:IsLoaded() then game["Loaded"]:Wait() end
@@ -57,7 +55,7 @@ local titlelabel = Instance.new("TextLabel")
 titlelabel["Size"] = UDim2.new(1, -140, 1, 0)
 titlelabel["Position"] = UDim2.new(0, 0, 0, 0)
 titlelabel["BackgroundTransparency"] = 1
-titlelabel["Text"] = "Animation shit | imma add more IDs later..."
+titlelabel["Text"] = "UGC R15 Animations"
 titlelabel["Font"] = Enum.Font.RobotoMono
 titlelabel["TextXAlignment"] = Enum.TextXAlignment.Left
 titlelabel["TextColor3"] = Color3.new(1, 1, 1)
@@ -129,20 +127,23 @@ buttonlayout["SortOrder"] = Enum.SortOrder.LayoutOrder
 buttonlayout["Parent"] = buttoncontainer
 
 -------------------------------------------------------------------------------------------------------------------------------
--- print("nigga") --126534971736559
+
 local oldbuttons = {}
 local animations = {
-	{name = "hide test", id = 73904913705133, speed = 1, timepos = 0},
--- xd xd xd
-	{name = "invisible test", id = 112119483472206, speed = 1, timepos = 0},
-	{name = "dingaling", id = 126534971736559, speed = 1, timepos = 0},
-    {name = "/e fly", id = 91133306449431, speed = 1, timepos = 0},
 	{name = "California\nGirls", id = 124982597491660, speed = 1, timepos = 0},
-    {name = "invisible", id = 108210268078796, speed = 1, timepos = 0},
-    {name = "hide", id = 90569241075391, speed = 1, timepos = 0},
 	{name = "Helicopter", id = 95301257497525, speed = 1, timepos = 0},
 	{name = "Helicopter 2", id = 122951149300674, speed = 1, timepos = 0},
 	{name = "Helicopter 3", id = 91257498644328, speed = 1, timepos = 0},
+	{name = "scp 096 sit", id = 103920001363489, speed = 1, timepos = 0},
+	{name = "scp 096 panic 1", id = 132065685005919, speed = 1, timepos = 0},
+	{name = "scp 096 panic 2", id = 132065685005919, speed = 1, timepos = 0},
+	{name = "Macarena", id = 95057986092544, speed = 1, timepos = 0},
+	{name = "dingaling", id = 126534971736559, speed = 1, timepos = 0},
+    {name = "hide", id = 90569241075391, speed = 1, timepos = 0},
+    {name = "drone 1", id = 121049172692579, speed = 1, timepos = 0},
+    {name = "drone 2", id = 118592095684994, speed = 1, timepos = 0},
+    {name = "drone 3", id = 125972205391287, speed = 1, timepos = 0},
+    {name = "drone 4", id = 86306602358470, speed = 1, timepos = 0},
 	{name = "Da Hood Dance", id = 108171959207138, speed = 1, timepos = 0},
 	{name = "Da Hood Stomp", id = 115048845533448, speed = 1.4, timepos = 0},
 	{name = "Flopping Fish", id = 79075971527754, speed = 1, timepos = 0},
